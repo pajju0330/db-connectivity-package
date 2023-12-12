@@ -1,0 +1,29 @@
+{
+  "name": "db-wce-code",
+  "version": "1.0.0",
+  "description": "database connectivity code for WCE students",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pajju0330/db-connectivity-package.git"
+  },
+  "keywords": [
+    "database",
+    "nodejs",
+    "sql",
+    "connectivity"
+  ],
+  "author": "Prajwal Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pajju0330/db-connectivity-package/issues"
+  },
+  "homepage": "https://github.com/pajju0330/db-connectivity-package#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.5"
+  }
+}
